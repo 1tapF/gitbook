@@ -42,9 +42,3 @@ site:
           default: true
           content:
             directory: ./changelog
-    - type: external-link
-      key: external-link-1
-      title: Discord
-      icon: discord
-      url: https://discord.com/invite/wvVJ8GV4PS
-      draft: true
